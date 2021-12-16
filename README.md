@@ -1,5 +1,7 @@
-# ProblemSolvingStats | OJ | Username | 
-Solve Count | | -- | -------- | ----------- | 
+# ProblemSolvingStats 
+
+| OJ | Username | Solve Count | 
+| -- | -------- | ----------- | 
 | Codeforces | [PrimeX](https://codeforces.com/profile/PrimeX) | 797 | 
 | CodeChef | [jsprince](https://www.codechef.com/users/jsprince) | 50 | 
 | AtCoder | [PrimeX](https://atcoder.jp/users/PrimeX) | 21 | 
